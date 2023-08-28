@@ -1,0 +1,14 @@
+{
+  "name": "segment-io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "source": "src/index.html",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build",
+    "dev": "parcel"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
